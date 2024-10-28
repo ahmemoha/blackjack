@@ -1,6 +1,10 @@
 # Blackjack Game
 
 A simple graphical user interface (GUI) implementation of the Blackjack card game using Java Swing.
+  ___     ___     ___     ___  
+ |A  |   |K  |   |Q  |   |J  | 
+ |   |   |   |   |   |   |   |  
+ |__A|   |__K|   |__Q|   |__J|  
 
 ## Features
 - Play against a computer dealer
