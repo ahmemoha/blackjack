@@ -8,11 +8,6 @@ A simple graphical user interface (GUI) implementation of the Blackjack card gam
 - Hit or stand options
 - Restart the game
 
-  ___     ___     ___     ___  
- |A  |   |K  |   |Q  |   |J  | 
- |   |   |   |   |   |   |   |  
- |__A|   |__K|   |__Q|   |__J|  
-
 ## Features
 - Play against a computer dealer
 - Place bets and manage your money
